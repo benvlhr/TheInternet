@@ -9435,4 +9435,6 @@ http://aktion-deutschland-hilft.de
 https://www.asf-ev.de
 http://www.aga-artenschutz.de
 Frame:719
-
+https://www.blumenshop.de
+https://www.blumenshop.com
+https://www.pflanzenshop.eu
